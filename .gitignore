@@ -1,0 +1,4 @@
+# ignoring files and folders that we don't want to see 
+/nbproject
+bulid.xml
+manifest.fm
