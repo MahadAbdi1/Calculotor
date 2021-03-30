@@ -11,10 +11,17 @@ package za.ac.cput.calculotor;
  */
 public class Subtract {
     
+    // this a interger of subtract method 
     public static int  intergerSub(int a , int b ){
         
         return a -b ;
         
+    }
+    
+    // this is a double of subtract method 
+    public static double diubleSubtract(double a , double b){
+        
+        return a - b;
     }
     
 }

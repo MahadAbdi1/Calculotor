@@ -2,3 +2,5 @@
 /nbproject
 bulid.xml
 manifest.fm
+/build/
+/dist/
